@@ -1,3 +1,3 @@
 # html-portfolio
-my first repository
-author - Harpreet
+My first repository.<br />
+Author - Harpreet
